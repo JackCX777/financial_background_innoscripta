@@ -9,9 +9,4 @@ For the Innoscripta company.
 The tool accepts files or links to them and returns a JSON or CSV file with data from balance sheets.  
 The following technologies are used to implement the scraping:
 - Python 3.9.0
-- PostgreSQL 13.2 
 - python-dotenv 0.17.1
-- peewee 3.14.4
-- vk-api 11.9.3
-- pytransitions/transitions 0.8.8
-- Docker 20.10.6

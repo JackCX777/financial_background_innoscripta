@@ -9,7 +9,9 @@ For the Innoscripta company.
 The tool accepts files or links to the web or local balance sheets and returns a conveniant *.csv file with financial 
 background data for further research.
 The tool is developed in the light of the fact that there are no anti-scraping protections on the website. 
+
 The following technologies are used to implement the scraping:
+
 - Python 3.9.0
 - beautifulsoup4==4.9.3
 - certifi==2020.6.20

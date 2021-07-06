@@ -43,6 +43,11 @@ The handled files are moved to the './out/archive/ directory to prevent
 double processing.
 
 ### To run script:
+
+Install requirements:
+
+##### ~$ pip install -r requirements.txt
+
 Execute the command 
 
 ##### ~$ python main.py

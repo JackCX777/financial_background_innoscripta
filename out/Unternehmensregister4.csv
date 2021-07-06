@@ -1,0 +1,44 @@
+,type,division,subdivision,article,line,31.12.2011,31.12.2010
+0,Aktiva,A.  ANLAGEVERMÖGEN,,,,17105952.95,16613000.0
+1,Aktiva,A.  ANLAGEVERMÖGEN,I. Immaterielle  Vermögensgegenstände,,,0.0,0.0
+2,Aktiva,A.  ANLAGEVERMÖGEN,I. Immaterielle  Vermögensgegenstände,,"Entgeltlich erworbene  Konzessionen, gewerbliche Schutzrechte und  ähnliche Rechte und Werte sowie Lizenzen an  solchen Rechten und Werten",63236.0,130000.0
+3,Aktiva,A.  ANLAGEVERMÖGEN,II. Sachanlagen,,,0.0,0.0
+4,Aktiva,A.  ANLAGEVERMÖGEN,II. Sachanlagen,"1. Grundstücke,  grundstücksgleiche Rechte und Bauten  einschließlich der Bauten auf fremden  Grundstücken",,10327179.17,11138000.0
+5,Aktiva,A.  ANLAGEVERMÖGEN,II. Sachanlagen,2. Technische Anlagen  und Maschinen,,1650677.0,1852000.0
+6,Aktiva,A.  ANLAGEVERMÖGEN,II. Sachanlagen,"3. Andere Anlagen,  Betriebs- und Geschäftsausstattung",,3215589.0,2111000.0
+7,Aktiva,A.  ANLAGEVERMÖGEN,II. Sachanlagen,4. Geleistete  Anzahlungen und Anlagen im Bau,,1205645.64,739000.0
+8,Aktiva,A.  ANLAGEVERMÖGEN,III. Finanzanlagen,,,0.0,0.0
+9,Aktiva,A.  ANLAGEVERMÖGEN,III. Finanzanlagen,1. Ausleihungen an  Gesellschafter,,640326.14,640000.0
+10,Aktiva,A.  ANLAGEVERMÖGEN,III. Finanzanlagen,2. Beteiligungen,,3000.0,3000.0
+11,Aktiva,A.  ANLAGEVERMÖGEN,III. Finanzanlagen,3.  Genossenschaftsanteile,,300.0,0.0
+12,Aktiva,B.  UMLAUFVERMÖGEN,,,,12432081.77,13259000.0
+13,Aktiva,B.  UMLAUFVERMÖGEN,I. Vorräte,,,0.0,0.0
+14,Aktiva,B.  UMLAUFVERMÖGEN,I. Vorräte,3.  Genossenschaftsanteile,Unfertige  Leistungen,455405.0,294000.0
+15,Aktiva,B.  UMLAUFVERMÖGEN,II. Forderungen und  sonstige Vermögensgegenstände,,,0.0,0.0
+16,Aktiva,B.  UMLAUFVERMÖGEN,II. Forderungen und  sonstige Vermögensgegenstände,1. Forderungen aus  Lieferungen und Leistungen,,5044531.84,3410000.0
+17,Aktiva,B.  UMLAUFVERMÖGEN,II. Forderungen und  sonstige Vermögensgegenstände,2. Forderungen an  Gesellschafter,,71308.34,71000.0
+18,Aktiva,B.  UMLAUFVERMÖGEN,II. Forderungen und  sonstige Vermögensgegenstände,3. Forderungen gegen  verbundene Unternehmen,,444003.66,29000.0
+19,Aktiva,B.  UMLAUFVERMÖGEN,II. Forderungen und  sonstige Vermögensgegenstände,4. Sonstige  Vermögensgegenstände,,584740.84,544000.0
+20,Aktiva,B.  UMLAUFVERMÖGEN,"III. Kassenbestand,  Guthaben bei Kreditinstituten",,,5832092.09,8911000.0
+21,Aktiva,C.  RECHNUNGSABGRENZUNGSPOSTEN,,,,27785.29,28000.0
+0,Passiva,A. EIGENKAPITAL,,,,8086214.92,7112000.0
+1,Passiva,A. EIGENKAPITAL,I. Gezeichnetes  Kapital,,,30000.0,30000.0
+2,Passiva,A. EIGENKAPITAL,II.  Kapitalrücklage,,,1947865.33,1948000.0
+3,Passiva,A. EIGENKAPITAL,III.  Gewinnrücklagen,,,2939817.86,2940000.0
+4,Passiva,A. EIGENKAPITAL,IV. Gewinnvortrag,,,2194811.9,892000.0
+5,Passiva,A. EIGENKAPITAL,V.  Jahresüberschuss,,,973719.83,1302000.0
+6,Passiva,B. SONDERPOSTEN AUS  ZUWENDUNGEN ZUR FINANZIERUNG DES  ANLAGEVERMÖGENS,,,,5439763.0,5384000.0
+7,Passiva,C.  RÜCKSTELLUNGEN,,,,3909342.41,4297000.0
+8,Passiva,C.  RÜCKSTELLUNGEN,V.  Jahresüberschuss,1. Rückstellungen  für Pensionen und ähnliche  Verpflichtungen,,207000.0,207000.0
+9,Passiva,C.  RÜCKSTELLUNGEN,V.  Jahresüberschuss,2.  Steuerrückstellungen,,71689.19,109000.0
+10,Passiva,C.  RÜCKSTELLUNGEN,V.  Jahresüberschuss,3. Sonstige  Rückstellungen,,3630653.22,3981000.0
+11,Passiva,D.  VERBINDLICHKEITEN,,,,10364027.68,11098000.0
+12,Passiva,D.  VERBINDLICHKEITEN,V.  Jahresüberschuss,1. Verbindlichkeiten  gegenüber Kreditinstituten,,3671887.27,4260000.0
+13,Passiva,D.  VERBINDLICHKEITEN,V.  Jahresüberschuss,2. Verbindlichkeiten aus  Lieferungen und Leistungen,,1053466.86,1294000.0
+14,Passiva,D.  VERBINDLICHKEITEN,V.  Jahresüberschuss,3. Verbindlichkeiten  gegenüber Gesellschaftern,,2300813.49,2454000.0
+15,Passiva,D.  VERBINDLICHKEITEN,V.  Jahresüberschuss,4. Verbindlichkeiten  gegenüber verbundenen Unternehmen,,736911.75,393000.0
+16,Passiva,D.  VERBINDLICHKEITEN,V.  Jahresüberschuss,"5. Verbindlichkeiten  gegenüber Unternehmen, mit denen ein  Beteiligungsverhältnis besteht",,182.34,0.0
+17,Passiva,D.  VERBINDLICHKEITEN,V.  Jahresüberschuss,6. Sonstige  Verbindlichkeiten,,2600765.97,2697000.0
+18,Passiva,D.  VERBINDLICHKEITEN,V.  Jahresüberschuss,6. Sonstige  Verbindlichkeiten,"- davon aus Steuern  327.073,12  (Vorjahr 359 )",0.0,0.0
+19,Passiva,D.  VERBINDLICHKEITEN,V.  Jahresüberschuss,6. Sonstige  Verbindlichkeiten,"- davon im Rahmen der  sozialen Sicherheit 0,00  (Vorjahr 0 )",0.0,0.0
+20,Passiva,E. AUSGLEICHSPOSTEN AUS  DARLEHENSFÖRDERUNG,,,,418011.0,511000.0
